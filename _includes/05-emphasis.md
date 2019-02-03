@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am Chinese*
+_I live in New York_
+
+**I like to do coding**
+__I love science__
+
+_I **can** read Chinese and English_. 
